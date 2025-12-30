@@ -9,7 +9,7 @@ import {
   ShieldCheck,
   Zap,
   Layers,
-  ArrowRight,
+  ArrowRight,  
   Cpu,
   Terminal,
   MessageSquare, Instagram, Github, Mail
